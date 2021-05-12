@@ -84,7 +84,7 @@ text-shadow: 0 0 10px rgb(207, 201, 201),
     flex-wrap: wrap;
     margin: 0 auto;
     max-width: 1920px;
-  
+    min-width: 1920px;
 }
 .title1{
     display:block;
